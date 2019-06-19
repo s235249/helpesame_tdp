@@ -92,3 +92,9 @@ analizzando i diversi tipi di evento ad aggiungendone alcuni di nuovi.
 _Risulta molto utile usare un "enum" nella classe evento per determinare la tipologia di eventi possibili, riconosciuti poi dal "run" nel momento in cui vengono presi in esame_
 
 > (Fare riferimento al progetto "2018-09-12")
+
+### Varie ed eventuali
+
+- In 2019-01-24 si trova un ottimo esempio di come gestire grafi orientati e pesati oltre che una simulazione non basata su eventi
+- Da UfoSightings si può prendere spunto per una ricorsione abbastanza complessa basata sugli archi di un grafo costruito precedentemente
+
