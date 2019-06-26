@@ -91,10 +91,13 @@ Evento e;
 analizzando i diversi tipi di evento ad aggiungendone alcuni di nuovi.
 _Risulta molto utile usare un "enum" nella classe evento per determinare la tipologia di eventi possibili, riconosciuti poi dal "run" nel momento in cui vengono presi in esame_
 
+P.s. Tendenzialmente è molto utile avere un oggetto specifico per tenere conto di situazioni legate agli eventi, nel caso di UFO_SIGHTING (2018-07-23 B) ad esempio semplifica molto avere uno stato che memorizza se si trova in emergenza, quante volte ha raggiunto l'emergenza e così via.
+
 > (Fare riferimento al progetto "2018-09-12")
 
 ### Varie ed eventuali
 
 - In 2019-01-24 si trova un ottimo esempio di come gestire grafi orientati e pesati oltre che una simulazione non basata su eventi
 - Da UfoSightings si può prendere spunto per una ricorsione abbastanza complessa basata sugli archi di un grafo costruito precedentemente
+- In 2018-07-23 B è svolta una simulazione ad eventi distinti con salvataggio di dati in un oggetto specifico
 
