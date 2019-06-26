@@ -99,4 +99,5 @@ P.s. Tendenzialmente è molto utile avere un oggetto specifico per tenere conto 
 
 - In 2019-01-24 si trova un ottimo esempio di come gestire grafi orientati e pesati oltre che una simulazione non basata su eventi
 - Da UfoSightings si può prendere spunto per una ricorsione abbastanza complessa basata sugli archi di un grafo costruito precedentemente
+- In 2018-07-23 B è svolta una simulazione ad eventi distinti con salvataggio di dati in un oggetto specifico
 
