@@ -91,6 +91,8 @@ Evento e;
 analizzando i diversi tipi di evento ad aggiungendone alcuni di nuovi.
 _Risulta molto utile usare un "enum" nella classe evento per determinare la tipologia di eventi possibili, riconosciuti poi dal "run" nel momento in cui vengono presi in esame_
 
+P.s. Tendenzialmente è molto utile avere un oggetto specifico per tenere conto di situazioni legate agli eventi, nel caso di UFO_SIGHTING (2018-07-23 B) ad esempio semplifica molto avere uno stato che memorizza se si trova in emergenza, quante volte ha raggiunto l'emergenza e così via.
+
 > (Fare riferimento al progetto "2018-09-12")
 
 ### Varie ed eventuali
